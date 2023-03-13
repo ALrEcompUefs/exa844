@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
+            "properties": {
+                "nome": "name",
+                "tipo": "kindergarten"
+            }
+        }
+    ]
+}
